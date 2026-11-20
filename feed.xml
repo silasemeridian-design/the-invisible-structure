@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>The Invisible Structure</title>
+    <link>https://YOUR-SITE.pages.dev/</link>
+    <description>Independent Global Intelligence &amp; Analysis</description>
+    <language>en-au</language>
+    <item>
+      <title>RSS feed preview — publication not yet connected</title>
+      <link>https://YOUR-SITE.pages.dev/</link>
+      <description>This is a placeholder feed item. Replace it with automatically generated, verified articles during Stage 2.</description>
+      <guid isPermaLink="false">iis-preview-feed-placeholder</guid>
+    </item>
+  </channel>
+</rss>
